@@ -1,1 +1,9 @@
 # longgpt
+title: LongGPT
+emoji: 😻
+colorFrom: indigo
+colorTo: purple
+sdk: gradio
+sdk_version: 3.16.2
+app_file: app.py
+pinned: false
