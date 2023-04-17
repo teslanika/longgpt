@@ -1,0 +1,5 @@
+PyMuPDF
+openai
+tensorflow==2.9.2
+tensorflow-hub==0.12.0
+scikit-learn==1.0.2
